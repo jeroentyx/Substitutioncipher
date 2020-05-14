@@ -1,3 +1,12 @@
+/*******************************************************************************
+filename Prac.cpp
+author Jeroen Tan
+email yixujeroen.tan@digipen.edu
+date created 14 May 2020
+Brief Description: A Source file containing definitions for
+Substitution Cipher
+******************************************************************************/
+
 #include <iostream>
 #include <string>
 
